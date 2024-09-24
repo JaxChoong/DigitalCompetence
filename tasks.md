@@ -10,8 +10,11 @@
     <li>Added "About Us" description into the section</li>
     <li>Added "Origins" and "Vision" into "About Us" section</li>
     <li>Added Mission Statement</li>
-    <li>Added "Services" section<li>
+    <li>Added "Services" section</li>
     <li>Added product showcase section</li>
+    <li>Added customer feedback section</li>
+    <li>Added Footer</li>
+    <li>Add location, contact and socials to footer</li>
 </ol>
 
 
