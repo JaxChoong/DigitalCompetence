@@ -1,9 +1,15 @@
 # Website Building - Choong Jia Xuen
 <ol>
-    <li>Create Wordpress Account </li>
-    <li>Create Wordpress Page </li>
+    <li>Create Wordpress account </li>
+    <li>Create Wordpress page </li>
     <li>Create template for page</li>
-    <li>Create Header/Navbar with logo, name and social media icon (Instagram)</li>
+    <li>Create header/navbar with logo, name and social media icon (Instagram)</li>
+    <li>Create Hero section with logo, slogan and sub-text, along with a button to link to "About Us" section.</li>
+    <li>Create "About Us" section</li>
+    <li>Add logo into "About Us" section</li>
+    <li>Add "About Us" description into the section</li>
+    <li>Add "Origins" and "Vision" into "About Us" section</li>
+    <li>Add Mission Statement</li>
 </ol>
 
 
