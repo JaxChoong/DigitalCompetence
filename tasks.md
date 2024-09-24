@@ -19,8 +19,18 @@
 
 
 # Figma Mobile App Prototype - Chong Meng Hang
-
-
+<ol>
+    <li>Made mock-ups of the mobile app</li>
+    <li>Used website color scheme to match the theme to the app</li>
+    <li>Changed the logo and Navigation Bar</li>
+    <li>Added Home Page</li>
+    <li>Added Order Page</li>
+    <li>Added Cart Page</li>
+    <li>Added Sign In Page</li>
+    <li>Changed the Navigation Bar styling to actually Navigate</li>
+    <li>Changed the Sign In Page to Profile Page</li>
+    <li>Added Logged In and NOT Logged In version of the Profile Page</li>
+</ol>
 
 
 # Mobile apps user manual - Kee Hui Yee & Samson Yong
