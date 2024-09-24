@@ -18,4 +18,5 @@
 ## Deliverables:
 <ul>
     <li> Website: <a href="https://rootsandtreats.wordpress.com/">https://rootsandtreats.wordpress.com/</a></li>
+    <li> Figma Link: <a href="https://www.figma.com/design/RNe5vdcnwjKCKozDVY8dc9/Digital-Competence-Mobile-App?node-id=0-1&t=oYR9QsACBspKSNRo-1">https://www.figma.com/design/RNe5vdcnwjKCKozDVY8dc9/Digital-Competence-Mobile-App?node-id=0-1&t=oYR9QsACBspKSNRo-1</a></li>
 </ul>
