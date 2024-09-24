@@ -14,3 +14,7 @@
     <li>Tasks are tracked according to deliverable and person in charge</li>
     <li>Tasks are tracked in a list in chronological order</li>
 </ul>
+
+## Deliverables:
+<ul>
+    ### <li> Website: <a href="https://rootsandtreats.wordpress.com/">https://rootsandtreats.wordpress.com/</a>
