@@ -17,4 +17,5 @@
 
 ## Deliverables:
 <ul>
-    ### <li> Website: <a href="https://rootsandtreats.wordpress.com/">https://rootsandtreats.wordpress.com/</a>
+    <li> Website: <a href="https://rootsandtreats.wordpress.com/">https://rootsandtreats.wordpress.com/</a></li>
+</ul>
