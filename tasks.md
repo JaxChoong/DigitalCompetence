@@ -20,9 +20,9 @@
 
 # Figma Mobile App Prototype - Chong Meng Hang
 <ol>
-    <li>made mock-ups of the mobile app</li>
-    <li>used website color scheme to match the theme to the app</li>
-    <li>changed the logo and Navigation Bar</li>
+    <li>Made mock-ups of the mobile app</li>
+    <li>Used website color scheme to match the theme to the app</li>
+    <li>Changed the logo and Navigation Bar</li>
     <li>Added Home Page</li>
     <li>Added Order Page</li>
     <li>Added Cart Page</li>
