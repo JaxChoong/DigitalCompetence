@@ -20,18 +20,18 @@
 
 # Figma Mobile App Prototype - Chong Meng Hang
 --18th Sep--
-Made a small mock-up of the ordering page with items
+Made a small mock-up of the ordering page with items using the color scheme from the website.
 
 --20th Sep--
 fixed a few changes for the logo and Navigation Bar
 
 --22nd Sep--
-Made the rest of the pages i.e Home, Order, Cart, Sign In
+Made the rest of the pages i.e Home, Order, Cart, Sign In.
+Users will be directed to Home first and are allowed to move back and forth using the Navigation Bar.
 
 --23rd Sep--
 Changed the styling of the of the Navigation Bar at the bottom to actually Navigate. 
 Also made the Sign In page into a Profile page have 2 seperate pages indicationg Logged In and Not Logged In.
-
 
 
 # Mobile apps user manual - Kee Hui Yee & Samson Yong
