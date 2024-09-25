@@ -19,4 +19,5 @@
 <ul>
     <li> Website: <a href="https://rootsandtreats.wordpress.com/">https://rootsandtreats.wordpress.com/</a></li>
     <li> Figma Link: <a href="https://www.figma.com/design/RNe5vdcnwjKCKozDVY8dc9/Digital-Competence-Mobile-App?node-id=0-1&t=oYR9QsACBspKSNRo-1">https://www.figma.com/design/RNe5vdcnwjKCKozDVY8dc9/Digital-Competence-Mobile-App?node-id=0-1&t=oYR9QsACBspKSNRo-1</a></li>
+    <li> Canva Link: <a href="https://www.canva.com/design/DAGRlTZRS-g/-j7VB1ckw7ENpFOmtDcD-A/edit?utm_content=DAGRlTZRS-g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"></a></li>
 </ul>
