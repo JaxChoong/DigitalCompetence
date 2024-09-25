@@ -33,7 +33,7 @@
 </ol>
 
 
-# Mobile apps user manual - Kee Hui Yee & Samson Yong
+# Mobile apps user manual - Kee Hui Yee & Yong Xian Shen
 <ol>
     <li>Choose correct Canva Layout</li>
     <li>Home Page Manual</li>
@@ -41,4 +41,7 @@
     <li>Add to cart</li>
     <li>Payment button</li>
     <li>Payment Method</li>
+    <li>Introduction</li>
+    <li>Dashboard Overview</li>
+    <li>Visual Design and Branding</li>
 </ol>
