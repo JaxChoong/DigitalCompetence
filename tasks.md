@@ -47,7 +47,6 @@
 <b>Navigation Guide</b>
 <ol>
     <li>Choose correct Canva Layout (pg10) </li>
-    <li>Home Page Manual(pg8) </li>
     <li>First Order Step (pg10) </li>
     <li>Add to cart (pg11) </li>
     <li>Payment button (pg12) </li>
