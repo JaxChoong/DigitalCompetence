@@ -34,29 +34,35 @@
 
 
 # Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
-<b>Introduction</b>
-<ol>
-    <li>Choose correct Canva Layout</li>
-    <li>Home Page Manual</li>
-    <li>First Order Step</li>
-    <li>Add to cart</li>
-    <li>Payment button</li>
-    <li>Payment Method</li>
-</ol>
+<b>Introduction (pg3) </b>
 
-<b>Dashboard Overview</b>
+<b>Dashboard Overview (pg6) </b>
 <ol>
+    <li>Dessert </li>
+    <li>Cart</li>
+    <li>About us</li>
     
 </ol>
 
 <b>Navigation Guide</b>
 <ol>
-    
+    <li>Choose correct Canva Layout (pg10) </li>
+    <li>Home Page Manual(pg8) </li>
+    <li>First Order Step (pg10) </li>
+    <li>Add to cart (pg11) </li>
+    <li>Payment button (pg12) </li>
+    <li>Payment Method (pg13) </li>
+     <li>Order Receipt (pg14) </li>
+     <li>Authenication (pg15) </li>
+     <li>Profile details (pg16) </li>
 </ol>
 
-<b>Functionality Guides</b>
+<b>Functionality Guides (pg8) </b>
 <ol>
-    <li></li>
+    <li>Home</li>
+    <li>Order</li>
+    <li>Cart</li>
+    <li>Profile</li>
 </ol>
 
 <b>Visual Design and Branding</b>
@@ -65,6 +71,4 @@
     <li>Explain the color palette</li>
 </ol>
 
-<b>Additonal</b>
-<ol>
-</ol>
+ 
