@@ -33,7 +33,8 @@
 </ol>
 
 
-# Mobile apps user manual - Kee Hui Yee & Yong Xian Shen
+# Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
+<h2>Introduction</h2>
 <ol>
     <li>Choose correct Canva Layout</li>
     <li>Home Page Manual</li>
@@ -41,7 +42,29 @@
     <li>Add to cart</li>
     <li>Payment button</li>
     <li>Payment Method</li>
-    <li>Introduction</li>
-    <li>Dashboard Overview</li>
-    <li>Visual Design and Branding</li>
+</ol>
+
+<h2>Dashboard Overview</h2>
+<ol>
+    
+</ol>
+
+<h2>Navigation Guide</h2>
+<ol>
+    
+</ol>
+
+<h2>Functionality Guides</h2>
+<ol>
+    <li></li>
+</ol>
+
+<h2>Visual Design and Branding</h2>
+<ol>
+    <li>Design a color palette</li>
+    <li>Explain the color palette</li>
+</ol>
+
+<h2>Additonal</h2>
+<ol>
 </ol>
