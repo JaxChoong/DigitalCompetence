@@ -44,27 +44,27 @@
     <li>Payment Method</li>
 </ol>
 
-<h2>Dashboard Overview</h2>
+<b>Dashboard Overview</b>
 <ol>
     
 </ol>
 
-<h2>Navigation Guide</h2>
+<b>Navigation Guide</b>
 <ol>
     
 </ol>
 
-<h2>Functionality Guides</h2>
+<b>Functionality Guides</b>
 <ol>
     <li></li>
 </ol>
 
-<h2>Visual Design and Branding</h2>
+<b>Visual Design and Branding</b>
 <ol>
     <li>Design a color palette</li>
     <li>Explain the color palette</li>
 </ol>
 
-<h2>Additonal</h2>
+<b>Additonal</b>
 <ol>
 </ol>
