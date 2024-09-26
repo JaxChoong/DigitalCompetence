@@ -34,7 +34,7 @@
 
 
 # Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
-<h2>Introduction</h2>
+<b>Introduction</b>
 <ol>
     <li>Choose correct Canva Layout</li>
     <li>Home Page Manual</li>
