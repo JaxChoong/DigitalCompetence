@@ -36,7 +36,7 @@
 # Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
 <b>Introduction (pg 3 - 4) </b>
 <ol>
-    <li></li>
+    <li>Upload the logo</li>
 </ol>
 
 <b>Dashboard Overview (pg 5 - 6) </b>
@@ -68,6 +68,8 @@
 
 <b>Visual Design and Branding (pg 17 - 18)</b>
 <ol>
+    <li>Upload the logo picture</li>
+    <li>Explain the logo design</li>
     <li>Design a color palette</li>
     <li>Explain the color palette</li>
 </ol>
