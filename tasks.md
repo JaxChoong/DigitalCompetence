@@ -34,29 +34,20 @@
 
 
 # Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
-<b>Introduction (pg3) </b>
-
-<b>Dashboard Overview (pg6) </b>
+<b>Introduction (pg 3 - 4) </b>
 <ol>
-    <li>Dessert </li>
+    <li></li>
+</ol>
+
+<b>Dashboard Overview (pg 5 - 6) </b>
+<ol>
+    <li>Product </li>
     <li>Cart</li>
     <li>About us</li>
-    
+    <li>Loyalty Program</li>
 </ol>
 
-<b>Navigation Guide</b>
-<ol>
-    <li>Choose correct Canva Layout (pg10) </li>
-    <li>First Order Step (pg10) </li>
-    <li>Add to cart (pg11) </li>
-    <li>Payment button (pg12) </li>
-    <li>Payment Method (pg13) </li>
-     <li>Order Receipt (pg14) </li>
-     <li>Authenication (pg15) </li>
-     <li>Profile details (pg16) </li>
-</ol>
-
-<b>Functionality Guides (pg8) </b>
+<b>Functionality Guides (pg 7 - 8) </b>
 <ol>
     <li>Home</li>
     <li>Order</li>
@@ -64,10 +55,25 @@
     <li>Profile</li>
 </ol>
 
-<b>Visual Design and Branding</b>
+<b>Navigation Guide (pg 9 - 16)</b>
+<ol>
+    <li>First Order Step </li>
+    <li>Add to cart </li>
+    <li>Payment button </li>
+    <li>Payment Method </li>
+    <li>Order Receipt </li>
+    <li>Authenication  </li>
+    <li>Profile details </li>
+</ol>
+
+<b>Visual Design and Branding (pg 17 - 18)</b>
 <ol>
     <li>Design a color palette</li>
     <li>Explain the color palette</li>
 </ol>
 
- 
+<b>Additional</b>
+<ol>
+    <li>Choose correct Canva Layout </li>
+    <li>Create table content (pg 2)</li>
+</ol>
