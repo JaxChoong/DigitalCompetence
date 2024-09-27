@@ -33,4 +33,49 @@
 </ol>
 
 
-# Mobile apps user manual - Kee Hui Yee & Samson Yong
+# Mobile apps user manual (canva) - Kee Hui Yee & Yong Xian Shen
+<b>Introduction (pg 3 - 4) </b>
+<ol>
+    <li>Upload the logo</li>
+</ol>
+
+<b>Dashboard Overview (pg 5 - 6) </b>
+<ol>
+    <li>Product </li>
+    <li>Cart</li>
+    <li>About us</li>
+    <li>Loyalty Program</li>
+</ol>
+
+<b>Functionality Guides (pg 7 - 8) </b>
+<ol>
+    <li>Home</li>
+    <li>Order</li>
+    <li>Cart</li>
+    <li>Profile</li>
+</ol>
+
+<b>Navigation Guide (pg 9 - 16)</b>
+<ol>
+    <li>First Order Step </li>
+    <li>Add to cart </li>
+    <li>Payment button </li>
+    <li>Payment Method </li>
+    <li>Order Receipt </li>
+    <li>Authenication  </li>
+    <li>Profile details </li>
+</ol>
+
+<b>Visual Design and Branding (pg 17 - 18)</b>
+<ol>
+    <li>Upload the logo picture</li>
+    <li>Explain the logo design</li>
+    <li>Design a color palette</li>
+    <li>Explain the color palette</li>
+</ol>
+
+<b>Additional</b>
+<ol>
+    <li>Choose correct Canva Layout </li>
+    <li>Create table content (pg 2)</li>
+</ol>
