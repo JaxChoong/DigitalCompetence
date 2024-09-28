@@ -37,17 +37,19 @@
 <b>Introduction (pg 3 - 4) </b>
 <ol>
     <li>Upload the logo</li>
+    <li>write introduce the user manual</li>
 </ol>
 
-<b>Dashboard Overview (pg 5 - 6) </b>
+<b>Dashboard Overview (pg 5 - 7) </b>
 <ol>
     <li>Product </li>
     <li>Cart</li>
     <li>About us</li>
     <li>Loyalty Program</li>
+    <li>Contact Us</li>
 </ol>
 
-<b>Functionality Guides (pg 7 - 8) </b>
+<b>Functionality Guides (pg 8 - 9) </b>
 <ol>
     <li>Home</li>
     <li>Order</li>
@@ -55,7 +57,7 @@
     <li>Profile</li>
 </ol>
 
-<b>Navigation Guide (pg 9 - 16)</b>
+<b>Navigation Guide (pg 10 - 17)</b>
 <ol>
     <li>First Order Step </li>
     <li>Add to cart </li>
@@ -66,7 +68,7 @@
     <li>Profile details </li>
 </ol>
 
-<b>Visual Design and Branding (pg 17 - 18)</b>
+<b>Visual Design and Branding (pg 18 - 19)</b>
 <ol>
     <li>Upload the logo picture</li>
     <li>Explain the logo design</li>
